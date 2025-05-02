@@ -57,21 +57,16 @@ dinerate/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dinerate.git
+   git clone https://github.com/PreetamE/dinerate.git
    cd dinerate
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Create PostgreSQL database:
+2. Create PostgreSQL database:
    ```sql
    CREATE DATABASE dinerate;
    ```
 
-4. Run the pipeline:
+3. Run the pipeline:
    ```bash
    python main.py
    ```
