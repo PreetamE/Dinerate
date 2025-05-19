@@ -76,13 +76,14 @@ dinerate/
 The final joined data is loaded into a PostgreSQL database hosted on Railway.
 Table Name: dinerate_full_data
 
-🔗 Connection Parameters (to be shared securely)
-Host
-Port
-Database
-User
-Password
-JDBC URL
+🔗 Connection Parameters (to be shared securely):
+1) Host
+2) Port
+3) Database
+4) User
+5) Password
+6) JDBC URL
+
 Please reach out to me for actual credentials.
 ---
 
@@ -90,6 +91,5 @@ Please reach out to me for actual credentials.
 
 **Preetam Epari**   
 GitHub: https://github.com/PreetamE
-
 ---
 
