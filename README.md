@@ -36,6 +36,7 @@ dinerate/
 
 - Python 3.11
 - PySpark
+- Railway.app
 - PostgreSQL
 - JDBC Driver
 
@@ -70,7 +71,19 @@ dinerate/
    ```bash
    python main.py
    ```
+4. Cloud Database Access (Railway)
 
+The final joined data is loaded into a PostgreSQL database hosted on Railway.
+Table Name: dinerate_full_data
+
+🔗 Connection Parameters (to be shared securely)
+Host
+Port
+Database
+User
+Password
+JDBC URL
+Please reach out to me for actual credentials.
 ---
 
 ## 💡 Author
